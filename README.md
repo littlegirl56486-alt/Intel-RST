@@ -1,2 +1,1 @@
-# Intel-RST
-SetupRST.exe was same as repository.
+Do not link to this page! Please link to [https://intel.com](https://www.intel.com/content/www/us/en/download/19512/intel-rapid-storage-technology-driver-installation-software-with-intel-optane-memory-10th-and-11th-gen-platforms.html) instead.
